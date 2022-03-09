@@ -1,0 +1,17 @@
+
+.DS_Store
+application/config/
+
+*.png
+
+*.jpg
+
+assets/article/
+
+assets/images/member/
+
+assets/
+
+composer.*
+
+vendor

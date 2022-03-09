@@ -1,0 +1,332 @@
+[10-Mar-2021 15:20:28 Asia/Taipei] PHP Fatal error:  Call to undefined method Pic_model::crop_img_upload_and_create_thumb() in /home/wundoo/public_html/application/controllers/Api.php on line 178
+[17-Mar-2021 16:09:05 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[31-Mar-2021 09:34:00 Asia/Taipei] PHP Fatal error:  Call to a member function earn_medal() on null in /home/wundoo/public_html/application/controllers/Api.php on line 297
+[07-Apr-2021 16:30:57 Asia/Taipei] PHP Fatal error:  Call to a member function add_post() on null in /home/wundoo/public_html/application/controllers/Api.php on line 113
+[08-Apr-2021 00:30:22 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[08-Apr-2021 01:10:25 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:12:11 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:13:08 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:13:39 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:20:29 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:21:06 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:21:34 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:23:34 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:23:43 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:24:49 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:28:22 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:32:38 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:33:10 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:33:44 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:35:06 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[09-Apr-2021 17:35:30 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[12-Apr-2021 10:57:25 Asia/Taipei] PHP Fatal error:  Cannot access protected property Api::$lang in /home/wundoo/public_html/system/libraries/Image_lib.php on line 1806
+[21-Apr-2021 03:37:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 299
+[21-Apr-2021 03:38:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 302
+[21-Apr-2021 03:38:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 302
+[21-Apr-2021 12:08:03 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE) in /home/wundoo/public_html/application/controllers/Api.php on line 297
+[27-Apr-2021 16:52:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:00 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:04 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:07 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:13 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 16:52:16 Asia/Taipei] PHP Parse error:  syntax error, unexpected ',' in /home/wundoo/public_html/application/models/Post_model.php on line 82
+[27-Apr-2021 10:26:05 UTC] PHP Parse error:  syntax error, unexpected '此路不通' (T_STRING), expecting ']' in /home/wundoo/public_html/application/controllers/Api.php on line 206
+[11-May-2021 18:24:23 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::generate_code() in /home/wundoo/public_html/application/models/User_model.php on line 103
+[11-May-2021 18:24:34 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::generate_code() in /home/wundoo/public_html/application/models/User_model.php on line 109
+[21-May-2021 23:07:07 Asia/Taipei] PHP Fatal error:  Call to a member function create_thumb() on null in /home/wundoo/public_html/application/models/Club_model.php on line 350
+[21-May-2021 23:07:43 Asia/Taipei] PHP Fatal error:  Call to a member function create_thumb() on null in /home/wundoo/public_html/application/models/Club_model.php on line 350
+[21-May-2021 23:08:11 Asia/Taipei] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::whete() in /home/wundoo/public_html/application/models/Club_model.php on line 387
+[24-May-2021 18:11:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 33
+[24-May-2021 18:31:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/application/controllers/Api.php on line 57
+[26-May-2021 01:57:36 Asia/Taipei] PHP Parse error:  syntax error, unexpected '"category_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/models/Club_model.php on line 507
+[02-Jun-2021 08:49:07 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:07 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:10 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:10 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:10 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:10 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:10 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:23 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:23 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:23 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:23 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:23 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:24 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:24 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:24 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:24 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:24 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:26 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:26 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:26 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:26 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:26 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:28 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:42 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:42 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:42 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:42 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:42 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:44 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:46 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:46 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:46 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:46 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:46 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:49:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:45 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:45 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:45 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:45 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:45 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:49 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:50:51 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:51:07 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:51:15 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[02-Jun-2021 08:51:35 UTC] PHP Parse error:  syntax error, unexpected '"link"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 91
+[03-Jun-2021 08:27:15 UTC] PHP Parse error:  syntax error, unexpected '"expected_publication"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 79
+[03-Jun-2021 08:27:49 UTC] PHP Parse error:  syntax error, unexpected '"expected_publication"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/application/controllers/Api.php on line 79
+[06-Jun-2021 05:23:02 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 12:51:12 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 12:51:22 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 12:55:14 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 13:03:57 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 13:04:09 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 13:04:13 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 15:58:04 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 16:23:32 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 16:23:41 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 18:41:25 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 18:46:41 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[06-Jun-2021 22:45:02 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_plan() in /home/wundoo/public_html/application/controllers/Api.php on line 171
+[16-Jun-2021 08:46:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/wundoo/public_html/application/controllers/Api.php on line 69
+[18-Jun-2021 12:34:41 Asia/Taipei] PHP Fatal error:  Call to a member function all_data_read() on null in /home/wundoo/public_html/application/controllers/Api.php on line 61
+[21-Jun-2021 17:28:07 Asia/Taipei] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::order() in /home/wundoo/public_html/application/models/Event_model.php on line 35
+[21-Jun-2021 17:28:47 Asia/Taipei] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::order() in /home/wundoo/public_html/application/models/Event_model.php on line 35
+[21-Jun-2021 17:47:48 Asia/Taipei] PHP Fatal error:  Call to undefined function data() in /home/wundoo/public_html/application/controllers/Api.php on line 116
+[24-Jun-2021 03:47:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:47:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:47:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:47:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:49:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:49:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:50:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:52:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[24-Jun-2021 03:52:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/wundoo/public_html/application/controllers/Api.php on line 1631
+[30-Jun-2021 17:28:59 UTC] PHP Parse error:  syntax error, unexpected '"percent"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[30-Jun-2021 17:29:13 UTC] PHP Parse error:  syntax error, unexpected '"percent"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[01-Jul-2021 06:32:06 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[01-Jul-2021 06:32:06 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[01-Jul-2021 06:32:06 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[01-Jul-2021 06:32:27 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 220
+[05-Jul-2021 17:49:28 Asia/Taipei] PHP Fatal error:  Call to a member function get_data() on null in /home/wundoo/public_html/app/application/controllers/Api.php on line 176
+[06-Jul-2021 16:21:44 Asia/Taipei] PHP Fatal error:  Call to a member function get_event_with_prize() on null in /home/wundoo/public_html/app/application/controllers/Api.php on line 184
+[06-Jul-2021 09:30:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wundoo/public_html/app/application/controllers/Api.php on line 458
+[08-Jul-2021 07:26:10 UTC] PHP Parse error:  syntax error, unexpected '$challenge' (T_VARIABLE) in /home/wundoo/public_html/app/application/controllers/Api.php on line 203
+[08-Jul-2021 07:26:25 UTC] PHP Parse error:  syntax error, unexpected '"title"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 221
+[08-Jul-2021 07:26:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/wundoo/public_html/app/application/controllers/Api.php on line 226
+[08-Jul-2021 15:28:17 Asia/Taipei] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19084 bytes) in /home/wundoo/public_html/app/system/libraries/Image_lib.php on line 1463
+[08-Jul-2021 15:31:03 Asia/Taipei] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19084 bytes) in /home/wundoo/public_html/app/system/libraries/Image_lib.php on line 1463
+[08-Jul-2021 15:32:02 Asia/Taipei] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19084 bytes) in /home/wundoo/public_html/app/system/libraries/Image_lib.php on line 1463
+[08-Jul-2021 15:37:31 Asia/Taipei] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 19084 bytes) in /home/wundoo/public_html/app/system/libraries/Image_lib.php on line 1463
+[14-Jul-2021 00:08:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/controllers/Api.php on line 239
+[14-Jul-2021 01:11:15 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wundoo/public_html/app/application/controllers/Api.php on line 262
+[15-Jul-2021 03:31:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/wundoo/public_html/app/application/controllers/Api.php on line 242
+[15-Jul-2021 03:31:11 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 246
+[29-Jul-2021 15:53:13 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::update_push_token() in /home/wundoo/public_html/app/application/controllers/Api.php on line 3134
+[29-Jul-2021 17:08:11 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::update_push_token() in /home/wundoo/public_html/app/application/controllers/Api.php on line 3134
+[29-Jul-2021 17:08:30 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::update_push_token() in /home/wundoo/public_html/app/application/controllers/Api.php on line 3134
+[29-Jul-2021 17:09:00 Asia/Taipei] PHP Fatal error:  Call to undefined method User_model::update_push_token() in /home/wundoo/public_html/app/application/controllers/Api.php on line 3134
+[02-Aug-2021 08:51:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:52:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:52:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:52:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:52:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:52:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:53:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:54:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/core/Base_Controller.php on line 297
+[02-Aug-2021 08:54:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wundoo/public_html/app/application/controllers/Api.php on line 2757
+[04-Aug-2021 10:11:36 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 960
+[04-Aug-2021 10:11:46 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 960
+[06-Aug-2021 20:35:16 Asia/Taipei] PHP Fatal error:  [] operator not supported for strings in /home/wundoo/public_html/app/application/controllers/Api.php on line 3128
+[06-Aug-2021 20:35:23 Asia/Taipei] PHP Fatal error:  [] operator not supported for strings in /home/wundoo/public_html/app/application/controllers/Api.php on line 3128
+[06-Aug-2021 20:35:24 Asia/Taipei] PHP Fatal error:  [] operator not supported for strings in /home/wundoo/public_html/app/application/controllers/Api.php on line 3128
+[06-Aug-2021 20:35:24 Asia/Taipei] PHP Fatal error:  [] operator not supported for strings in /home/wundoo/public_html/app/application/controllers/Api.php on line 3128
+[07-Aug-2021 00:16:44 Asia/Taipei] PHP Fatal error:  [] operator not supported for strings in /home/wundoo/public_html/app/application/controllers/Api.php on line 3128
+[09-Aug-2021 02:12:19 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:22 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:26 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:27 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:27 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:27 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:28 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:28 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:28 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:32 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[09-Aug-2021 02:12:34 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1322
+[12-Aug-2021 20:03:07 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[12-Aug-2021 20:04:09 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:21 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:22 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:23 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:23 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:23 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:23 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:24 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:24 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:45 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 10:48:47 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 11:06:09 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 11:06:10 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 11:06:25 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1491
+[13-Aug-2021 14:34:50 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1493
+[13-Aug-2021 15:14:08 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1497
+[13-Aug-2021 21:31:32 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[15-Aug-2021 18:37:21 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[15-Aug-2021 18:37:28 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[16-Aug-2021 10:01:53 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[16-Aug-2021 10:02:33 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[16-Aug-2021 10:02:46 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1498
+[17-Aug-2021 10:55:26 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:55:29 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:55:39 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:55:45 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:55:45 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:55:46 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 10:56:12 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 11:07:26 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 16:30:45 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[17-Aug-2021 16:31:08 Asia/Taipei] PHP Fatal error:  Call to undefined function aray() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1416
+[18-Aug-2021 09:33:00 Asia/Taipei] PHP Fatal error:  Call to undefined method Task_model::percent_calc() in /home/wundoo/public_html/app/application/models/Task_model.php on line 79
+[18-Aug-2021 09:33:09 Asia/Taipei] PHP Fatal error:  Call to undefined method Task_model::percent_calc() in /home/wundoo/public_html/app/application/models/Task_model.php on line 79
+[18-Aug-2021 07:37:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[18-Aug-2021 07:37:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wundoo/public_html/app/application/controllers/Api.php on line 29
+[25-Aug-2021 01:29:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 210
+[25-Aug-2021 09:30:01 Asia/Taipei] PHP Fatal error:  Call to protected method Base_Model::custom_encrypt() from context 'Api' in /home/wundoo/public_html/app/application/controllers/Api.php on line 210
+[26-Aug-2021 03:30:46 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 03:31:06 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 03:34:11 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 07:46:11 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 07:47:29 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 08:01:57 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 08:02:03 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[26-Aug-2021 08:02:19 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[02-Sep-2021 19:27:35 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_adv_list() in /home/wundoo/public_html/app/application/controllers/mgr/Adv.php on line 194
+[02-Sep-2021 19:27:39 Asia/Taipei] PHP Fatal error:  Call to undefined method Adv_model::get_adv_list() in /home/wundoo/public_html/app/application/controllers/mgr/Adv.php on line 194
+[02-Sep-2021 11:27:56 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[02-Sep-2021 11:28:55 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[02-Sep-2021 11:29:05 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/wundoo/public_html/app/application/controllers/mgr/Event.php on line 51
+[02-Sep-2021 17:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[02-Sep-2021 17:54:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 1227
+[03-Sep-2021 02:44:40 Asia/Taipei] PHP Fatal error:  Call to undefined method Api::custom_encrypt() in /home/wundoo/public_html/app/application/controllers/Api.php on line 1355
+[02-Sep-2021 19:11:31 UTC] PHP Parse error:  syntax error, unexpected '"cumulative_time"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 3873
+[02-Sep-2021 19:11:31 UTC] PHP Parse error:  syntax error, unexpected '"cumulative_time"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 3873
+[02-Sep-2021 19:11:31 UTC] PHP Parse error:  syntax error, unexpected '"cumulative_time"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 3873
+[02-Sep-2021 19:11:31 UTC] PHP Parse error:  syntax error, unexpected '"cumulative_time"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 3873
+[02-Sep-2021 19:11:31 UTC] PHP Parse error:  syntax error, unexpected '"cumulative_time"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/wundoo/public_html/app/application/controllers/Api.php on line 3873
+[18-Nov-2021 10:26:09 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:26:19 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:28:49 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:29:30 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:30:46 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:30:49 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:30:56 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:31:00 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:31:03 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:31:06 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:31:11 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Brand.php on line 92
+[18-Nov-2021 10:31:13 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Designer.php on line 96
+[18-Nov-2021 10:31:16 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Timeline.php on line 86
+[18-Nov-2021 10:31:19 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Our_service.php on line 86
+[18-Nov-2021 10:31:54 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Designer.php on line 96
+[18-Nov-2021 10:32:01 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Timeline.php on line 86
+[18-Nov-2021 10:32:36 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Designer.php on line 96
+[18-Nov-2021 10:33:27 Asia/Taipei] PHP Fatal error:  require(): Failed opening required '../vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Brand.php on line 92
+[18-Nov-2021 10:33:59 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:34:31 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Customized.php on line 107
+[18-Nov-2021 10:34:43 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Ready_text.php on line 76
+[18-Nov-2021 10:35:34 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Ready_carousel.php on line 187
+[18-Nov-2021 10:36:26 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Bride.php on line 83
+[18-Nov-2021 10:37:47 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Media.php on line 214
+[18-Nov-2021 10:39:52 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 87
+[18-Nov-2021 12:56:17 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr.php on line 154
+[18-Nov-2021 12:56:21 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr.php on line 154
+[18-Nov-2021 13:02:19 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr.php on line 154
+[18-Nov-2021 15:11:31 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr.php on line 154
+[18-Nov-2021 15:11:58 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr.php on line 154
+[18-Nov-2021 15:15:40 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Home_mgr_text.php on line 146
+[26-Nov-2021 18:12:42 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/More_photos.php on line 162
+[26-Nov-2021 18:55:10 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C://xampp/htdocs/new_wedding/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 104
+[26-Nov-2021 18:55:42 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required '../../phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 105
+[26-Nov-2021 18:57:47 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required '../../phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 105
+[26-Nov-2021 19:00:05 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required '/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 108
+[26-Nov-2021 19:01:42 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required 'https://anbon.works/new_wedding//phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 109
+[26-Nov-2021 19:05:17 Asia/Taipei] PHP Fatal error:  require_once(): Failed opening required 'https://anbon.works/new_wedding//phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/models/Contact_model.php on line 109
+[08-Dec-2021 11:23:46 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
+[08-Dec-2021 11:23:51 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
+[08-Dec-2021 11:26:36 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
+[08-Dec-2021 11:27:14 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
+[08-Dec-2021 11:30:10 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
+[08-Dec-2021 11:31:25 Asia/Taipei] PHP Fatal error:  require(): Failed opening required 'C:/xampp/htdocs/new_wedding/vendors/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/anbon/public_html/new_wedding/application/controllers/mgr/Contact.php on line 207
